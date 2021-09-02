@@ -1,0 +1,65 @@
+.navbar a {
+  background-color: #4cd19a;
+  color: white;
+  padding: 10px 200px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.navbar h1 {
+  color: rgb(1, 9, 15);
+  font-size: 30px;
+  text-align: center;
+  font-family: monospace;
+}
+.Content h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #495f5e;
+}
+.Content-preview {
+  padding: 1px 16px;
+  margin: 2px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.Content-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.Content-preview h3 {
+  font-size: 20px;
+  color: #ee3a0d;
+  margin-bottom: 2px;
+}
+
+.Content-preview p {
+  font-size: 15px;
+  font-family: cursive;
+  color: #295f5c;
+  margin-bottom: 8px;
+}
+.Create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.Create label {
+  text-align: left;
+  display: block;
+}
+.Create input,
+.Create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.Create button {
+  background: #e6671d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
